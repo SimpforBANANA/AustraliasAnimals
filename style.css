@@ -79,6 +79,18 @@ h3{
   
 }
 .unfriendly{
+  background-image: url(./images/Unfriendly\ .png);
+  background-size: cover;
+}
+.friendly{
+  background-image: url(./images/Friendly.jpeg);
+  background-size: cover;
+}
+.poisonus{
   background-image: url(./images/poisunos.jpg);
+  background-size: cover;
+}
+.unpoisonus{
+  background-image: url(./images/unpoisunsu.webp);
   background-size: cover;
 }
